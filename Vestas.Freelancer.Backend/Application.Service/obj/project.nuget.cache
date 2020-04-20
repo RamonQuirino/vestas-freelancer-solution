@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "krw4j/QwAY++dmZnsZ1ku/WXwY975hNlbe8Yd9nTyovIrwf2WY9HGuqTej6o0aR9/qaydQqguYAjJhnQlo2ryQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramon\\source\\repos\\Vestas.Freelancer.Backend\\Application.Service\\Application.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

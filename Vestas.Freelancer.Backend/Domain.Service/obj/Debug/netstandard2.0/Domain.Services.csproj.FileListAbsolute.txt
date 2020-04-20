@@ -1,0 +1,12 @@
+C:\Users\ramon\source\repos\Vestas.Freelancer.Backend\Domain.Service\bin\Debug\netstandard2.0\Vestas.Freelancer.Domain.Services.deps.json
+C:\Users\ramon\source\repos\Vestas.Freelancer.Backend\Domain.Service\bin\Debug\netstandard2.0\Vestas.Freelancer.Domain.Services.dll
+C:\Users\ramon\source\repos\Vestas.Freelancer.Backend\Domain.Service\bin\Debug\netstandard2.0\Vestas.Freelancer.Domain.Services.pdb
+C:\Users\ramon\source\repos\Vestas.Freelancer.Backend\Domain.Service\bin\Debug\netstandard2.0\Vestas.Freelancer.Domain.Models.dll
+C:\Users\ramon\source\repos\Vestas.Freelancer.Backend\Domain.Service\bin\Debug\netstandard2.0\Vestas.Freelancer.Domain.Models.pdb
+C:\Users\ramon\source\repos\Vestas.Freelancer.Backend\Domain.Service\obj\Debug\netstandard2.0\Domain.Services.csprojAssemblyReference.cache
+C:\Users\ramon\source\repos\Vestas.Freelancer.Backend\Domain.Service\obj\Debug\netstandard2.0\Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\ramon\source\repos\Vestas.Freelancer.Backend\Domain.Service\obj\Debug\netstandard2.0\Domain.Services.AssemblyInfoInputs.cache
+C:\Users\ramon\source\repos\Vestas.Freelancer.Backend\Domain.Service\obj\Debug\netstandard2.0\Domain.Services.AssemblyInfo.cs
+C:\Users\ramon\source\repos\Vestas.Freelancer.Backend\Domain.Service\obj\Debug\netstandard2.0\Domain.Services.csproj.CopyComplete
+C:\Users\ramon\source\repos\Vestas.Freelancer.Backend\Domain.Service\obj\Debug\netstandard2.0\Vestas.Freelancer.Domain.Services.dll
+C:\Users\ramon\source\repos\Vestas.Freelancer.Backend\Domain.Service\obj\Debug\netstandard2.0\Vestas.Freelancer.Domain.Services.pdb

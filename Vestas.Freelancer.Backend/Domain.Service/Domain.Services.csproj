@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Vestas.Freelancer.Domain.Services</AssemblyName>
+    <RootNamespace>Vestas.Freelancer.Domain.Services</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain.Models\Domain.Models.csproj" />
+  </ItemGroup>
+
+</Project>
