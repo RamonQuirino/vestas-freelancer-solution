@@ -1,0 +1,12 @@
+<p>freelancer works!</p>
+<fieldset>
+  <legend>New Appointment</legend>
+  <label>Project Name</label>
+  <input type="text" [(ngModel)]="model.ProjectName" >
+  <label>initial time</label>
+  <input type="datetime-local" [(ngModel)]="model.AppointmentStartTime" >
+  <label>end time</label>
+  <input type="datetime-local" [(ngModel)]="model.AppointmentEndTime" >
+  <button (click)='saveAppointment()'>Save</button>
+</fieldset>
+<app-freelancer-appointments-table [appointments]="appointments"></app-freelancer-appointments-table>

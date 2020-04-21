@@ -1,0 +1,15 @@
+<fieldset>
+  <legend>Appointments</legend>
+  <table class="table table-hover">
+    <tr>
+      <th>Project Name</th>
+      <th>Initial Time</th>
+      <th>End Time</th>
+    </tr>
+    <tr *ngFor = "let item of appointments">
+      <td>{{item.ProjectName }}</td>
+      <td>{{item.AppointmentStartTime}}</td>
+      <td>{{item.AppointmentEndTime}}</td>
+    </tr>
+  </table>
+</fieldset>
